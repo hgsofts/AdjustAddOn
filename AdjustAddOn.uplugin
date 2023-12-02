@@ -1,0 +1,35 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AdjustAddOn",
+	"Description": "Adjust AddOn",
+	"Category": "Other",
+	"CreatedBy": "HGsofts",
+	"CreatedByURL": "https://www.hgsofts.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "hgsofts@outlook.com",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AdjustAddOn",
+			"Type": "Runtime",
+			"LoadingPhase": "PostDefault"
+		},
+		{
+			"Name": "AdjustAddOnEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PostDefault"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Adjust",
+			"Enabled": true
+		}
+	]
+}

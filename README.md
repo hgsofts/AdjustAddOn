@@ -1,4 +1,4 @@
-# AdjustAddOn
+# Adjust AddOn
 Adjust AddOn ( https://github.com/adjust/unreal_sdk )
 
 ![Setting](https://github.com/hgsofts/AdjustAddOn/assets/52162509/fdc2e4d2-080a-4451-9e3b-37fbb18d224e)
